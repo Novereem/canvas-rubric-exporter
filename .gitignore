@@ -1,0 +1,129 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/packages/*
+
+# Include packages folder in the root only if it exists
+!packages/
+
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+*_ncrunch_*
+.*crunch*.local.xml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# CodeRush
+.cr/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio temporary files
+~$*
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Visual Studio upgrade backup
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+# LightSwitch generated files
+GeneratedArtifacts/
+_Pvt_Extensions/
+ModelManifest.xml
+
+# Web publish
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+# Visual Studio Code settings
+.vscode/
+
+# Other files
+*.class
+*.dbmdl
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Node.js
+node_modules/
+
+# Yarn
+.yarn/
+.yarnrc.yml
+
+# Bundle artifacts
+BundleArtifacts/
+ProjectParameters.xml
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Azure Build Pipeline files
+[Azure DevOps artifact files]
+*.coverage
+*.coveragexml
+
+# StyleCop
+StyleCopReport.xml
+
+# Client-side packages
+wwwroot/lib/*
+
+# Others
+AppPackages/
+packages.config
+*.vsix
+*.pidb
+*.svclog
+*.sdf
+*.cache
+*.pdb
+*.dll
+*.exe
+*.exe.config
+*.dll.config
+Thumbs.db
+ehthumbs.db
+[Dd]ebug/
+[Rr]elease/
+_TestResults/
+[Oo]ut/
