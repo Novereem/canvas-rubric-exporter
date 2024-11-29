@@ -23,7 +23,7 @@ The **Canvas Rubric Exporter** is a Windows Forms application that allows instru
 ## Installation
 
 1. **Download the Application**:
-   - Go to the [Releases](https://github.com/Novereem/CanvasRubricExporter/releases) page of this repository.
+   - Go to the [Releases](https://github.com/Novereem/canvas-rubric-exporter/releases) page of this repository.
    - Download the latest version of the application.
 
 2. **Extract the Zip File**:
